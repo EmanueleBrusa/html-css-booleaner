@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*classi header*/
+.background-placeholder{
+    background-image: url(../img/pattern.png);
+    background-color: rgb(59, 136, 209);
+    background-size: contain;
+}
+.logobackground{
+    background-size: 10px;
+}
+#sottotitolo{
+    color: lightgray;
+}
+#booleaner{
+    color: rgb(0, 204, 255);
+}
+/*fine classi header*/
