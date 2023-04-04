@@ -22,11 +22,31 @@ header{
 main{
     margin: 30px 10px;
 }
+/*inizio titolo*/
 h1{
     font-size: 38px;
     line-height: 40px;
 }
+.autore{
+    color: gray;
+    font-size: 18px;
+}
+.data{
+    color: gray;
+    font size: 12px;
+}
+.nome-autore{
+    color: blue;
+    text text-decoration: none;
+}
+/*fine titolo*/
+/*inizio sezione foto main*/
 .foto{
     margin-top: 20px;
 }
+.didascalia{
+    font-size: 13px;
+}
+/*fine sezione foto main*/
+
 /*fine classi main*/
