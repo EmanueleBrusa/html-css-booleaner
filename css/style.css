@@ -73,12 +73,14 @@ td{
     padding: 10px;
 }
 table{
-    border: none;
     border: collapse;
     margin-bottom: 40px;
 }
 .testo{
     width: 50%;
+}
+.tabella-colorata{
+    background-color: aqua;
 }
 /*fine tabella*/
 /*fine sezione testo*/
