@@ -5,18 +5,15 @@
 }
 
 /*classi header*/
-.background-placeholder{
+.logo{
+    height: 50px;
+    margin-top: 50px;
+}
+
+header{
+    background-color: rgb(3, 119, 196);
     background-image: url(../img/pattern.png);
-    background-color: rgb(59, 136, 209);
-    background-size: contain;
-}
-.logobackground{
-    background-size: 10px;
-}
-#sottotitolo{
-    color: lightgray;
-}
-#booleaner{
-    color: rgb(0, 204, 255);
+    background-size: 30%;
+    height: 100px;
 }
 /*fine classi header*/
