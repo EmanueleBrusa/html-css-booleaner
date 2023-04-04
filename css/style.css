@@ -17,3 +17,16 @@ header{
     height: 100px;
 }
 /*fine classi header*/
+
+/*classi main*/
+main{
+    margin: 30px 10px;
+}
+h1{
+    font-size: 38px;
+    line-height: 40px;
+}
+.foto{
+    margin-top: 20px;
+}
+/*fine classi main*/
