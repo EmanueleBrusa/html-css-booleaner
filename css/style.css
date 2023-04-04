@@ -73,7 +73,7 @@ td{
     padding: 10px;
 }
 table{
-    border: collapse;
+    border: none;
     margin-bottom: 40px;
 }
 .testo{
@@ -84,5 +84,27 @@ table{
 }
 /*fine tabella*/
 /*fine sezione testo*/
-
 /*fine classi main*/
+/*inizio classi footer*/
+footer{
+    margin: 30px 10px;
+}
+h2{
+    color: gray;
+}
+#immagine-footer1{
+    background-image: url(../img/monitor.jpg);
+    color: white;
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+#immagine-footer2{
+    background-image: url(../img/graph.jpg);
+    color: white;
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+}
+/*fine classi footer*/
