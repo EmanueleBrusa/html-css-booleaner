@@ -7,7 +7,7 @@
 /*classi header*/
 .logo{
     height: 50px;
-    margin-top: 50px;
+    margin-top: 40px;
 }
 
 header{
@@ -37,7 +37,7 @@ h1{
 }
 .nome-autore{
     color: blue;
-    text text-decoration: none;
+    text-decoration: none;
 }
 /*fine titolo*/
 /*inizio sezione foto main*/
