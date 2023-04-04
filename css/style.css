@@ -55,6 +55,32 @@ h1{
 .testo{
     margin-top: 20px;
 }
+/*inizio lista*/
+ul{
+    margin: 30px 20px;
+}
+/*fine lista*/
+/*inizio tabella*/
+thead{
+    background-color: rgb(0, 119, 255);
+}
+th{
+    color: white;
+    text-align: left;
+    padding: 10px;
+}
+td{
+    padding: 10px;
+}
+table{
+    border: none;
+    border: collapse;
+    margin-bottom: 40px;
+}
+.testo{
+    width: 50%;
+}
+/*fine tabella*/
 /*fine sezione testo*/
 
 /*fine classi main*/
