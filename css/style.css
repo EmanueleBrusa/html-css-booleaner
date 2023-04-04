@@ -48,5 +48,13 @@ h1{
     font-size: 13px;
 }
 /*fine sezione foto main*/
+/*inizio sezione testo*/
+.evidenza{
+    background-color: yellow;
+}
+.testo{
+    margin-top: 20px;
+}
+/*fine sezione testo*/
 
 /*fine classi main*/
